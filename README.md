@@ -26,4 +26,5 @@ database optimization, and security implementation.
 - Learning more about scalable systems
 
 📫 Reach me at:
+- Email: mrabhishekkhairnar@gmail.com  
 - LinkedIn: https://linkedin.com/in/mrabhishekkhairnar04
